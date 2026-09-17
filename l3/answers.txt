@@ -1,0 +1,17 @@
+CPU
+12th Gen Intel(R) Core(TM) i9-12900HK
+14 cores 
+2.50 GHz
+
+RAM
+64.0 GB DDR5
+4800 MT/s
+
+GPU
+NVIDIA GeForce RTX 3050 Ti Laptop GPU
+VRAM 4 GB
+Intel(R) Iris(R) Xe Graphics 
+
+BIOS Version
+Dell Inc. 1.42.0
+27/05/2026

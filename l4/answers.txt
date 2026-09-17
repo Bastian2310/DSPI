@@ -1,0 +1,23 @@
+Total Active Drivers: 212
+
+WiFi/Network Driver Name: Intel(R) Wi-Fi 6E AX211 160MHz
+
+Driver File Locations:
+
+C:\Windows\System32\DriverStore\FileRepository\netvwifibus.inf_amd64_ab4e111fe8221178\vwifibus.sys
+
+C:\Windows\System32\DriverStore\FileRepository\netwtw6e.inf_amd64_d488480304e1f365\IntelIHVRouter14.dll
+
+C:\Windows\System32\DriverStore\FileRepository\netwtw6e.inf_amd64_d488480304e1f365\netwfw14.dat
+
+C:\Windows\System32\DriverStore\FileRepository\netwtw6e.inf_amd64_d488480304e1f365\Netwtw14.sys
+
+- Google Chrome
+RAM usage:
+3.226,2 MB
+
+CPU percentage:
+0,2%
+
+Location:
+C:\Program Files\Google\Chrome\Application

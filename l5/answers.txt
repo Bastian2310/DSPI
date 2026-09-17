@@ -1,0 +1,31 @@
+Ip Address: 87.215.224.170
+Local IPv4 Address: 192.168.68.67
+
+Default Gateway: 192.168.68.1
+
+IP Type: Both are private IP addresses (they fall within the 192.168.0.0 – 192.168.255.255 range)
+
+IP Addresses:
+Public IP: 87.215.224.170
+Local IP: 192.168.68.67
+Default Gateway: 192.168.68.1
+VPN IP: 145.138.226.232
+
+VPN Change:
+Yes, the IP changes when EduVPN is turned on because your internet traffic is now routed through Leiden University's network.
+
+Private vs. Public:
+Private: 192.168.68.67 (Local IP) and 192.168.68.1 (Gateway)
+Public: 87.215.224.170 (Home IP) and 145.138.226.232 (VPN IP)
+
+Local IP Geo-Location:
+City: The Hague, South Holland, Netherlands (NL)
+
+Internet Hubs Trace (tracert):
+First Hub: 192.168.68.1 (Local home router)
+Last Hub: 192.178.24.99 (Google server)
+Observation: The first hub is a local private IP address on my home network, while the last hub is a public IP address belonging to Google's network infrastructure.
+
+Google Data Center Location:
+IP Address: 192.178.24.99
+Location: Mountain View, California, United States (US)
